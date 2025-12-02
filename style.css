@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+    box-sizing: border-box;
+    color: white;
+}
+body{
+    background: rgba(3, 7, 18, 1);
+
+
+}
+
+.container{
+    max-width: 1280px;  
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+i{
+    color: white;
+}
+.nav-list{
+    display: flex;  
+    gap: 20px;
+}
+nav{
+    display: flex;
+    gap: 750px;
+}
+.logo{
+    margin-left: 50px;
+}
+header{
+    display: flex;
+    align-items: center;
+    transform: translateY(100px);
+    gap: 300px;
+    img{
+        box-shadow: 40px 40px 0px 0px rgb(83, 83, 83);
+    }
+}
