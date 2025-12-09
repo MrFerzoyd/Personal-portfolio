@@ -21,6 +21,10 @@ a{
 ul{
     list-style: none;
 }
+footer{
+    margin-top: 300px;
+    text-align: center;
+}
 i{
     color: white;
 }
@@ -60,8 +64,10 @@ header{
     i,p,h1{
         margin:  10px 0px;
     }
+   
     i{
         margin: 10px 5px;
     }
     
 }
+
